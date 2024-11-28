@@ -9,8 +9,8 @@ import DeleteIcon from "@mui/icons-material/Delete";
 import { Box, Button, Input, Modal, Typography } from "@mui/material";
 import CircularProgress from "@mui/material/CircularProgress";
 
-import { axiosInstance } from "../utils/axiosInstance";
-import { fetchTreeData } from "../utils/fetchData";
+import { axiosInstance } from "./utils/axiosInstance";
+import { fetchTreeData } from "./utils/fetchData";
 
 export const ROOT_TREE_NAME = "%7BC9232B85-AD10-459C-A44F-70CA30C60E5F%7D"; //hardcoded value for now
 

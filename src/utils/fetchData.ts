@@ -1,4 +1,4 @@
-import { ROOT_TREE_NAME } from "../src/TreeView";
+import { ROOT_TREE_NAME } from "../TreeView";
 import { axiosInstance } from "./axiosInstance";
 
 export const fetchTreeData = async () => {

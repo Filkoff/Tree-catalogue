@@ -17,7 +17,7 @@
   },
   "include": [
     "src/**/*", // Include all TypeScript files in the src directory
-    "utils/**/*"
+    "src/utils/**/*"
   ],
   "exclude": [
     "node_modules", // Exclude node_modules folder
